@@ -1,6 +1,6 @@
 import numpy as np 
 import streamlit as st
-luxury = 0
+
 
 def model1(x):
     x = np.array(x)
@@ -9,13 +9,15 @@ def model1(x):
     return round(np.exp(y),0)
 
 def run():
-    st.title('Used Car Price Estimator')
-    st.write('By Omar Qusos and Hamilton Chang')
+    luxury = 0
+    st.title('Used Car Price Estimator ')
+    st.write('By Theja Team :)')
+    st.sidebar.selectbox('How would you like to be contacted?',('Email', 'Home phone', 'Mobile phone'))
 
     mileage = st.slider('Max Mileage', 0, 80000, 0, 20)
     city_mpg = st.slider('City MPG', 11, 54, 11, 1)
     highway_mpg = st.slider('Highway MPG', 16, 50, 16, 1)
-    year = st.slider('Model Year', 2014, 2018, 2014, 1)
+    year = st.slider('Model Year', 2014, 2020, 2014, 1)
     lux = st.checkbox('Luxury')
 
     if lux:

@@ -10,4 +10,3 @@ The objective of the project is mainly:
 
 ### The final webpage deployed is available online on: [Carprice Estimator](http://ec2-54-163-16-187.compute-1.amazonaws.com:8501/)
 
-![](https://github.com/krishangi-deka/carprice/blob/main/WebpageScreenshot.jpg)

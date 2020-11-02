@@ -1,5 +1,5 @@
 # Prediction of used car sale price using Linear Regression Model
-### The machine learning model was deployed on Amazon EC2 instance using docker container and using Streamlit web app framework.
+### The machine learning model was deployed on Amazon EC2 instance using docker container and Streamlit web app framework.
 
 Regression model credits: [Hamilton Chang](https://github.com/hamiltonchangcodes/Used_Car_Linear_Regression_Prediction)
 

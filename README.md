@@ -12,3 +12,4 @@ The objective of the project is mainly:
 #### Project Demonstration and Presentation: [Click here!](https://www.youtube.com/watch?v=8anY4NGTcBA&feature=youtu.be)
 ![](https://github.com/krishangi-deka/carprice/blob/main/webpageScreenshot.jpg)
 
+Note: This project was completed as a requirement for the Masters course IDS594:MLDeployment at the University of Illinois at Chicago.

@@ -13,4 +13,4 @@ The objective of the project is mainly:
 #### Documentation: [Click here!](https://github.com/krishangi-deka/carprice/blob/main/Project%20Report%20IDS%20594_EstimatingPricesOfUsedCars.pdf)
 ![](https://github.com/krishangi-deka/carprice/blob/main/webpageScreenshot.jpg)
 
-Note: This project was completed as a requirement for the Masters course IDS594:MLDeployment at the University of Illinois at Chicago.
+Note: This project was completed as a part of the Masters course IDS594:MLDeployment at the University of Illinois at Chicago.
